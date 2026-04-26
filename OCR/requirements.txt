@@ -1,0 +1,8 @@
+paddleocr==3.0.0
+paddlepaddle==2.6.2
+opencv-contrib-python==4.10.0.84
+numpy>=1.23,<2.0
+pillow
+textblob
+shapely
+pyclipper

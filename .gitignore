@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+venv/
+env/
+ocr_env/
+
+# Models
+*.pt
+*.pth
+
+# Large binaries
+*.dll
+*.pyd
+*.lib
+
+# OS
+.DS_Store
+Thumbs.db

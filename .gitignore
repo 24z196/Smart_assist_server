@@ -1,0 +1,11 @@
+# Large files
+gemma-4-E4B-it-IQ4_XS.gguf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/

@@ -1,6 +1,12 @@
+# Large files
+gemma-4-E4B-it-IQ4_XS.gguf
+
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.Python
 
 # Virtual env
 venv/
@@ -13,7 +19,6 @@ ocr_env/
 
 # Large binaries
 *.dll
-*.pyd
 *.lib
 
 # OS

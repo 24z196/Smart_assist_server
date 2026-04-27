@@ -25,3 +25,16 @@ ocr_env/
 # OS
 .DS_Store
 Thumbs.db
+
+# Ignore virtual environment
+venv/
+__pycache__/
+
+# Ignore sensitive files
+google-credentials.json
+*.toml
+
+# Ignore other
+.vscode/
+*.pyc
+*.egg-info/
